@@ -7,7 +7,7 @@ git bash under a folder containing SVM.pdf
 `git add SVM.pdf (your file)`
 
 `git config --global user.email "youremail@expample.com"`
-or
+
 `git config --global suer.name "your name"`
 
 `git commit -m "first commit"`
