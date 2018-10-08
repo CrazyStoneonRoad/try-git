@@ -21,6 +21,8 @@ Try-git： git bash under a folder containing SVM.pdf
 ---------
 `git pull --rebase origin master`
 
+注意：上面这一步很重要，要一直重复，直到看到 Current branch master is already up to date.
+
 `git add ...`
 
 `git commit ...`
