@@ -2,12 +2,16 @@
 ------------
 git bash under a folder containing SVM.pdf
 ------------
-git init
+`git init`
 
-git add SVM.pdf (your file)
+`git add SVM.pdf (your file)`
 
-git commit -m "first commit"
+`git config --global user.email "youremail@expample.com"`
+or
+`git config --global suer.name "your name"`
 
-git remote add origin https://github.com/CrazyStoneonRoad/try-git.git
+`git commit -m "first commit"`
 
-git push -u origin master
+`git remote add origin https://github.com/CrazyStoneonRoad/try-git.git`
+
+`git push -u origin master`
