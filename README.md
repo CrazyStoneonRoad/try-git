@@ -9,7 +9,7 @@ Try-git： git bash under a folder containing SVM.pdf
 
 `git config --global user.email "youremail@expample.com"`
 
-`git config --global suer.name "your name"`
+`git config --global uer.name "your name"`
 
 `git commit -m "first commit"`
 
