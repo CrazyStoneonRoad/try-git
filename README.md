@@ -1,7 +1,8 @@
-# try-git
-------------
-git bash under a folder containing SVM.pdf
-------------
+Try-git： git bash under a folder containing SVM.pdf
+===================
+
+### 1. First establish on local.
+----------
 `git init`
 
 `git add SVM.pdf (your file)`
@@ -13,5 +14,15 @@ git bash under a folder containing SVM.pdf
 `git commit -m "first commit"`
 
 `git remote add origin https://github.com/CrazyStoneonRoad/try-git.git`
+
+`git push -u origin master`
+
+### 2. If changes made on local.
+---------
+`git pull --rebase origin master`
+
+`git add ...`
+
+`git commit ...`
 
 `git push -u origin master`
