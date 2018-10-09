@@ -28,3 +28,7 @@ Try-git： git bash under a folder containing SVM.pdf
 `git commit ...`
 
 `git push -u origin master`
+
+### 3. If error because of crawling of the Internet.
+
+[CSDN](https://blog.csdn.net/qq_34121797/article/details/79561110)
