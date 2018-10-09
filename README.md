@@ -30,6 +30,7 @@ Try-git： git bash under a folder containing SVM.pdf
 `git push -u origin master`
 
 ### 3. If error because of crawling of the Internet.
+-----------
 **Problem:** RPC failed; result=55, HTTP code = 200
 
 [Buffer is too low](https://stackoverflow.com/questions/24952683/git-push-error-rpc-failed-result-56-http-code-200-fatal-the-remote-end-hun)
